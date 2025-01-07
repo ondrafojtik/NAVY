@@ -10,3 +10,5 @@ Set of exercises implementing
 	- Iterated function system (IFS)
 	- Mandelbrot Set with zoom
 	- Cellular automata - forest fire alg.
+
+![](Animation.gif)
